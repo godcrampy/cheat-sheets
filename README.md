@@ -10,6 +10,7 @@ This repo contains all the cheat-sheets mentioned on my [blog](dev.to/godcrampy)
 - [Gatsby](https://dev.to/godcrampy/the-ultimate-gatsby-cheat-sheet-pdf-infographic-1cie)
 - [Docker](https://dev.to/godcrampy/docker-cheat-sheet-pdf-infographic-3lfk)
 - [VS Code](https://dev.to/godcrampy/vs-code-cheat-sheet-pdf-infographic-53bk)
+- [Markdown](https://dev.to/godcrampy/markdown-cheat-sheet-pdf-infographic-12ko)
 
 ## Requests
 
