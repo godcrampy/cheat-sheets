@@ -1,5 +1,8 @@
 # Cheat Sheets
 
+![GitHub stars](https://img.shields.io/github/stars/godcrampy/cheat-sheets?style=social)
+![GitHub forks](https://img.shields.io/github/forks/godcrampy/cheat-sheets?style=social)
+
 This repo contains all the cheat-sheets mentioned on my [blog](dev.to/godcrampy).
 
 ## Link to Original Posts
